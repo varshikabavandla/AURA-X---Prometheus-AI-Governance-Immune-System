@@ -1,0 +1,6 @@
+{
+  "name": "Prometheus X",
+  "description": "Autonomous AI Governance & Immune System for Enterprise AI Agents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
